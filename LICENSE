@@ -19,3 +19,21 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---------------------------------------------------------------------
+
+Research Paper Reference
+
+This repository contains the implementation of the research work presented at the
+IEEE ICICNIS 2025 conference.
+
+Paper Title: "Deforestation Detection using Satellite Imagery"
+
+Published in: IEEE Xplore Digital Library  
+Paper Link: https://ieeexplore.ieee.org/document/11315536
+
+If you use this code or methodology in research, publications, or projects,
+please cite the above paper appropriately.
+
+Unauthorized reproduction of the research paper or publishing the same work
+under another authorship is strictly prohibited.
